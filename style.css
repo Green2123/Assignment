@@ -1,12 +1,32 @@
-*{
-  margin: 0px;
-  border: 0px;
-
-}
-
-.header-main{
-  display: flex;
-  width: 1920px;
-height: 850px;
+ .header-first{
+  height: 1020px;
   background: rgba(229, 84, 115, 0.10);
+  display: flex;
+  justify-content: space-between;
+ position: relative;
+ }
+
+ .image1{
+  width: 980px;
+  margin: bottom 0px;
+ }
+
+ .text-first{
+  position: relative;
+  left: 200px;
+  top: 200px;
+ }
+ .inner-text{
+  font-size: 80px;
+ }
+ .button-first{
+  border-radius: 5px;
+background: #E55473;
+display: inline-flex;
+padding: 10px 30px;
+align-items: flex-start;
+gap: 10px;
+font-size: 17px;
+color: aliceblue;
+padding: 20px 43px 20px 43px;
 }
