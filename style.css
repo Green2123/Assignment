@@ -135,3 +135,60 @@ border-radius: 8px;
 background: #E55473;
 margin-left: 280px;
 }
+/* 5th Banner Part*/
+
+.fifth-images{
+  display: flex;
+  position: relative;
+  margin-top: 80px;
+  margin-left: 100px;
+}
+.fifth-text{
+  position: relative;
+  text-align: center;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+.fifth-h2{
+  font-size: 50px;
+  font-style: oblique;
+}
+.fifth-p{
+  font-size: 20px;
+}
+
+.sixth-part{
+ width: 1440px;
+height: 449px;
+margin-top: 100px;
+margin-left: 250px;
+}
+.sixth-text{
+  text-align: center;
+  margin-bottom: 10px;
+  position: relative;
+
+  
+}
+
+
+
+
+
+.footer-last{
+  width: 1922px;
+height: 449px;
+background-color: #111010;
+margin-top: 130px;
+color: #FFFFFF;
+text-align: center;
+
+}
+.footer-text{
+  position: relative;
+  width: 2000px;
+  margin-top: 200px;
+}
+.footer-h1{
+  font-size: 50px;
+}
