@@ -1,6 +1,8 @@
+ /*first Banner Part*/
+ 
  .header-first{
   height: 1020px;
-  background: rgba(229, 84, 115, 0.10);
+  background: rgba(229, 90, 115, 0.10);
   display: flex;
   justify-content: space-between;
  position: relative;
@@ -29,4 +31,107 @@ gap: 10px;
 font-size: 17px;
 color: aliceblue;
 padding: 20px 43px 20px 43px;
+}
+/*Second Banner Part*/
+.second-text{
+  text-align: center;
+  position: relative;
+  top: 120px;
+}
+.inner-text2{
+  font-size: 50px;
+}
+.inner-text-p{
+  position: relative;
+  bottom: 20px;
+}
+.three-flowers{
+  display: flex;
+  justify-content: space-around;
+  width: 1800px;
+  position: relative;
+  top: 200px;
+  left: 40px;
+}
+
+.flower1{
+  position: relative;
+  width: 464px;
+height: 538px;
+ background-color: #A7216226;
+ border-radius: 300px 300px 0px 0px;
+}
+.flower2{
+  width: 464px;
+height: 538px;
+  background-color: #0597A026;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower3{
+  position: relative;
+  width: 464px;
+height: 538px;
+  background-color: #477D1126;
+  border-radius: 300px 300px 0px 0px;
+}
+.flower1-text{
+align-items: center;
+position: relative;
+left: 180px;
+text-decoration: underline;
+
+}
+/* 3rd Banner Part*/
+
+.three-logo{
+  display: flex;
+  position: relative;
+  padding: 350px 300px 300px 300px;
+  width: 500px;
+  background-color: #0597A026;
+  margin: auto;
+}
+
+/* 4rd Banner Part*/
+
+.fourth-part{
+  display: flex;
+  width: 1922px;
+height: 620px;
+background-color: #E554730D;
+margin-top: 120px;
+}
+.fourth-inner{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  left: 600px;
+}
+.fourth-text{
+  position: relative;
+  margin-top: 200px;
+
+}
+.fourth-flower{
+  position: relative;
+  margin-top: 150px;
+  margin-left: 200px;
+
+}
+.fourth-h2{
+  font-size: 50px;
+}
+.fourth-p{
+  font-size: 20px;
+  text-align: center;
+}
+.fourth-button{
+  display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: #FFFFFF;
+border-radius: 8px;
+background: #E55473;
+margin-left: 280px;
 }
